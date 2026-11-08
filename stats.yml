@@ -1,0 +1,34 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    - cron: "30 */6 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/stats.py"
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate stats cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        run: python scripts/stats.py
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg assets/langs.svg
+          git commit -m "chore: update stats cards" || exit 0
+          git pull --rebase
+          git push
