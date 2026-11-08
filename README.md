@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="banner"/>
+<img src="banner.svg" width="100%" alt="banner"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=720&height=50&lines=Crafting+immersive+web+experiences;Turning+ideas+into+production-ready+code;Open+to+collaborations+%26+opportunities" alt="typing"/>
