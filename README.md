@@ -13,7 +13,7 @@
 <img src="h-about.svg" width="100%" alt="about me"/>
 
 <div align="center">
-  <img src="./assets/about.svg" width="92%" alt="terminal"/>
+  <img src="about.svg" width="92%" alt="terminal"/>
 </div>
 
 <img src="h-arsenal.svg" width="100%" alt="tech arsenal"/>
