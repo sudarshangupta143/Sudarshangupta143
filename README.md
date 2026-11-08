@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="./assets/h-about.svg" width="100%" alt="about"/>
+<img src="h-about.svg" width="100%" alt="about"/>
 
 ```js
 const me = {
@@ -28,7 +28,7 @@ const me = {
 };
 ```
 
-<img src="./assets/h-arsenal.svg" width="100%" alt="tech arsenal"/>
+<img src="h-arsenal.svg" width="100%" alt="tech arsenal"/>
 
 <div align="center">
 
@@ -36,7 +36,7 @@ const me = {
 
 </div>
 
-<img src="./assets/h-contrib.svg" width="100%" alt="3d contributions"/>
+<img src="h-connect.svg" width="100%" alt="3d contributions"/>
 
 <div align="center">
 
