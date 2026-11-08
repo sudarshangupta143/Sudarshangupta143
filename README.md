@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sudarshangupta143/sudarshangupta143/output/github-snake.yml" width="100%" alt="snake"/>
+<img src="snake.yml" width="100%" alt="snake"/>
 
 </div>
 
