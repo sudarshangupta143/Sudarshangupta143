@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<img src="snake.yml" width="100%" alt="snake"/>
+<img src="snake.svg" width="100%" alt="snake"/>
 
 </div>
 
