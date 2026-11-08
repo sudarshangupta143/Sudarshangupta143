@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+<img src="profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
 
 </div>
 
