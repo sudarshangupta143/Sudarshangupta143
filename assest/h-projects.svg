@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="80" viewBox="0 0 1200 80">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00f0ff"/><stop offset=".5" stop-color="#8b5cff"/><stop offset="1" stop-color="#ff3df2"/></linearGradient>
+<linearGradient id="l" gradientUnits="userSpaceOnUse" x1="60" y1="0" x2="312" y2="0"><stop offset="0" stop-color="#00f0ff" stop-opacity="0"/><stop offset="1" stop-color="#00f0ff"/></linearGradient>
+<linearGradient id="r" gradientUnits="userSpaceOnUse" x1="888" y1="0" x2="1140" y2="0"><stop offset="0" stop-color="#ff3df2"/><stop offset="1" stop-color="#ff3df2" stop-opacity="0"/></linearGradient>
+<filter id="glow" x="-30%" y="-80%" width="160%" height="260%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<style>.d{animation:p 2.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes p{0%,100%{opacity:.5;transform:rotate(45deg) scale(1)}50%{opacity:1;transform:rotate(45deg) scale(1.4)}}</style>
+</defs>
+<line x1="60" y1="40" x2="312" y2="40" stroke="url(#l)" stroke-width="2"/>
+<line x1="888" y1="40" x2="1140" y2="40" stroke="url(#r)" stroke-width="2"/>
+<rect class="d" x="326" y="35" width="10" height="10" fill="#00f0ff" filter="url(#glow)"/>
+<rect class="d" x="864" y="35" width="10" height="10" fill="#ff3df2" filter="url(#glow)"/>
+<text x="600" y="51" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" letter-spacing="10" fill="url(#g)" filter="url(#glow)">FEATURED PROJECTS</text>
+</svg>
