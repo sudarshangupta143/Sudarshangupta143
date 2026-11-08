@@ -44,7 +44,7 @@ const me = {
 
 </div>
 
-<img src="assest/h-stats.svg" width="100%" alt="stats"/>
+<img src="h-stats.svg" width="100%" alt="stats"/>
 
 <div align="center">
 
@@ -57,7 +57,7 @@ const me = {
 
 </div>
 
-<img src="assets/h-activity.svg" width="100%" alt="activity"/>
+<img src="h-activity.svg" width="100%" alt="activity"/>
 
 <div align="center">
 
@@ -67,7 +67,7 @@ const me = {
 
 </div>
 
-<img src="assets/h-projects.svg" width="100%" alt="featured projects"/>
+<img src="h-projects.svg" width="100%" alt="featured projects"/>
 
 <div align="center">
 
@@ -76,7 +76,7 @@ const me = {
 
 </div>
 
-<img src="assets/h-connect.svg" width="100%" alt="connect"/>
+<img src="h-connect.svg" width="100%" alt="connect"/>
 
 <div align="center">
 
