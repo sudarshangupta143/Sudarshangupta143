@@ -57,8 +57,8 @@
 
 <div align="center">
 
-<a href="https://github.com/sudarshangupta143?tab=repositories"><img src="./assets/card-folioforge.svg" width="49%" alt="FolioForge"/></a>
-<a href="https://github.com/sudarshangupta143?tab=repositories"><img src="./assets/card-next.svg" width="49%" alt="Next build"/></a>
+<a href="https://github.com/sudarshangupta143?tab=repositories"><img src="card-folioforge.svg" width="49%" alt="FolioForge"/></a>
+<a href="https://github.com/sudarshangupta143?tab=repositories"><img src="card-next.svg" width="49%" alt="Next build"/></a>
 
 </div>
 
