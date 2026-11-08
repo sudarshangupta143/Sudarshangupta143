@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Sudarshan Gupta"/>
+<img src="banner.svg" width="100%" alt="Sudarshan Gupta"/>
 
 <br/>
 
@@ -10,13 +10,13 @@
 
 </div>
 
-<img src="./assets/h-about.svg" width="100%" alt="about me"/>
+<img src="h-about.svg" width="100%" alt="about me"/>
 
 <div align="center">
   <img src="./assets/about.svg" width="92%" alt="terminal"/>
 </div>
 
-<img src="./assets/h-arsenal.svg" width="100%" alt="tech arsenal"/>
+<img src="h-arsenal.svg" width="100%" alt="tech arsenal"/>
 
 <div align="center">
 
@@ -24,7 +24,7 @@
 
 </div>
 
-<img src="./assets/h-contrib.svg" width="100%" alt="3d contributions"/>
+<img src="h-contrib.svg" width="100%" alt="3d contributions"/>
 
 <div align="center">
 
@@ -32,12 +32,12 @@
 
 </div>
 
-<img src="./assets/h-stats.svg" width="100%" alt="github stats"/>
+<img src="h-stats.svg" width="100%" alt="github stats"/>
 
 <div align="center">
 
-<img src="./assets/stats.svg" width="49%" alt="stats"/>
-<img src="./assets/langs.svg" width="49%" alt="languages"/>
+<img src="stats.svg" width="49%" alt="stats"/>
+<img src="langs.svg" width="49%" alt="languages"/>
 
 <br/><br/>
 
@@ -45,7 +45,7 @@
 
 </div>
 
-<img src="./assets/h-activity.svg" width="100%" alt="activity"/>
+<img src="h-activity.svg" width="100%" alt="activity"/>
 
 <div align="center">
 
@@ -53,7 +53,7 @@
 
 </div>
 
-<img src="./assets/h-projects.svg" width="100%" alt="featured projects"/>
+<img src="h-projects.svg" width="100%" alt="featured projects"/>
 
 <div align="center">
 
@@ -62,7 +62,7 @@
 
 </div>
 
-<img src="./assets/h-connect.svg" width="100%" alt="connect"/>
+<img src="h-connect.svg" width="100%" alt="connect"/>
 
 <div align="center">
 
